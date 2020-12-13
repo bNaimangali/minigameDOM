@@ -4,7 +4,7 @@ Just a simple game for training my skills
 Hello everyone!
 
 Rules:
--The game will guess the number between 1 and 20. You have to find it =) 
+-The game is simple, you have to find a number between 1 and 20; 
 
 Good luck!
 Beka
